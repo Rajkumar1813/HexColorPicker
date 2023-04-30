@@ -1,0 +1,20 @@
+.center {
+    padding-top: 70px;
+    margin: auto;
+    width: max-content;
+    text-align: center;
+    }
+    .btn {
+    margin: auto;
+    font-weight: bolder;
+    text-align: center;
+    padding: 9px;
+    border: 1px;
+    border-radius: 4px;
+    cursor: pointer;
+    }
+
+h1{
+    background-color: aliceblue;
+    padding: 2%;
+}
